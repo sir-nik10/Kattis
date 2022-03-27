@@ -1,2 +1,1 @@
-# SecretMessage-Kattis
-Submission for SecretMessage-Kattis
+C++ Submissions for Kattis
